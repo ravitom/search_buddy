@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TomRavi/search_buddy/static/css/main.7387d167.chunk.css",
-    "main.js": "/TomRavi/search_buddy/static/js/main.1f47e5a6.chunk.js",
-    "main.js.map": "/TomRavi/search_buddy/static/js/main.1f47e5a6.chunk.js.map",
-    "runtime-main.js": "/TomRavi/search_buddy/static/js/runtime-main.8e6ec2d5.js",
-    "runtime-main.js.map": "/TomRavi/search_buddy/static/js/runtime-main.8e6ec2d5.js.map",
-    "static/js/2.743303ce.chunk.js": "/TomRavi/search_buddy/static/js/2.743303ce.chunk.js",
-    "static/js/2.743303ce.chunk.js.map": "/TomRavi/search_buddy/static/js/2.743303ce.chunk.js.map",
-    "static/js/3.7d037c68.chunk.js": "/TomRavi/search_buddy/static/js/3.7d037c68.chunk.js",
-    "static/js/3.7d037c68.chunk.js.map": "/TomRavi/search_buddy/static/js/3.7d037c68.chunk.js.map",
-    "index.html": "/TomRavi/search_buddy/index.html",
-    "static/css/main.7387d167.chunk.css.map": "/TomRavi/search_buddy/static/css/main.7387d167.chunk.css.map",
-    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/TomRavi/search_buddy/static/js/2.743303ce.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/TomRavi/search_buddy/static/media/sun-tornado.795b74ef.svg"
+    "main.css": "/search_buddy/static/css/main.7134b1c8.chunk.css",
+    "main.js": "/search_buddy/static/js/main.1f47e5a6.chunk.js",
+    "main.js.map": "/search_buddy/static/js/main.1f47e5a6.chunk.js.map",
+    "runtime-main.js": "/search_buddy/static/js/runtime-main.cfafdd1f.js",
+    "runtime-main.js.map": "/search_buddy/static/js/runtime-main.cfafdd1f.js.map",
+    "static/js/2.743303ce.chunk.js": "/search_buddy/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/search_buddy/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/search_buddy/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/search_buddy/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/search_buddy/index.html",
+    "static/css/main.7134b1c8.chunk.css.map": "/search_buddy/static/css/main.7134b1c8.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/search_buddy/static/js/2.743303ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/search_buddy/static/media/sun-tornado.795b74ef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e6ec2d5.js",
+    "static/js/runtime-main.cfafdd1f.js",
     "static/js/2.743303ce.chunk.js",
-    "static/css/main.7387d167.chunk.css",
+    "static/css/main.7134b1c8.chunk.css",
     "static/js/main.1f47e5a6.chunk.js"
   ]
 }
