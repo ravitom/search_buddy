@@ -1,0 +1,28 @@
+.card {
+  background-color: #fdd835;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.1s; /* Animation */
+}
+
+img {
+  display: flex;
+  align-self: center;
+  border-radius: 50%;
+}
+
+img:hover {
+  -webkit-filter: sepia(0.25) contrast(1.5) brightness(0.95) hue-rotate(-15deg);
+  filter: sepia(0.25) contrast(1.5) brightness(0.95) hue-rotate(-15deg);
+  transition: 0.3s;
+}
+p {
+  margin: 5px 0px;
+}
+h4 {
+  margin: 10px 0px;
+}
